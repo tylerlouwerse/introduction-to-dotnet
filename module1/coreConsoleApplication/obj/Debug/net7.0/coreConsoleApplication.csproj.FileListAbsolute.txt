@@ -1,0 +1,14 @@
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/bin/Debug/net7.0/coreConsoleApplication
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/bin/Debug/net7.0/coreConsoleApplication.deps.json
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/bin/Debug/net7.0/coreConsoleApplication.runtimeconfig.json
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/bin/Debug/net7.0/coreConsoleApplication.dll
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/bin/Debug/net7.0/coreConsoleApplication.pdb
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/obj/Debug/net7.0/coreConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/obj/Debug/net7.0/coreConsoleApplication.AssemblyInfoInputs.cache
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/obj/Debug/net7.0/coreConsoleApplication.AssemblyInfo.cs
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/obj/Debug/net7.0/coreConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/obj/Debug/net7.0/coreConsoleApplication.dll
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/obj/Debug/net7.0/refint/coreConsoleApplication.dll
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/obj/Debug/net7.0/coreConsoleApplication.pdb
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/obj/Debug/net7.0/coreConsoleApplication.genruntimeconfig.cache
+/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module1/coreConsoleApplication/obj/Debug/net7.0/ref/coreConsoleApplication.dll

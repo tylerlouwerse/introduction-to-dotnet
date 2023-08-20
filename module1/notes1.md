@@ -1,4 +1,4 @@
-# Module 1: Introduction to .NET Development
+# Module 1: Introduction to .NET Core
 
 ### What is .NET core?
 - .NET Core is a free open-source, cross platform that runs on Windows, MacOS and Linux OS

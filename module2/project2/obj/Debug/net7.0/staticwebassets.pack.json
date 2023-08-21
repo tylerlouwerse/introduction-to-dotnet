@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module2/project2/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.project2.props",
+      "PackagePath": "build\\project2.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.project2.props",
+      "PackagePath": "buildMultiTargeting\\project2.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.project2.props",
+      "PackagePath": "buildTransitive\\project2.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.project2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ddQ+p3SMIRAfFmb/1zKd+sCtKGTF7ycSCW/7DGhIjXw=",
+  "Source": "project2",
+  "BasePath": "_content/project2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "project2/wwwroot",
+      "Source": "project2",
+      "ContentRoot": "/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module2/project2/wwwroot/",
+      "BasePath": "_content/project2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module2/project2/wwwroot/index.html",
+      "SourceId": "project2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/tylerlouwerse/Documents/courses/introduction-to-dotnet/module2/project2/wwwroot/",
+      "BasePath": "_content/project2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
